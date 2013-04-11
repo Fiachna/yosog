@@ -1,0 +1,10 @@
+getting yesod running on windows 7
+
+created initial project directory in syswow64
+moved it to C:\
+then cd and attempt install
+failed out
+tried install happy alex
+failed out
+finally simply used yesod devel
+worked!
